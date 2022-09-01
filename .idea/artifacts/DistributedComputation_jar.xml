@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DistributedComputation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DistributedComputation_jar</output-path>
+    <root id="archive" name="DistributedComputation.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="DistributedComputation" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/mpi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/mpj.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/xdev.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/mxdev.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/tools.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/daemon.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/hybdev.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/mpiExp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/mpjbuf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/mpjdev.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/niodev.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/smpdev.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/loader1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/loader2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/starter.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/log4j-1.2.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/daemonmanager.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/javax.servlet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/runtimecommon.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/commons-cli-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mpj-v0_44/lib/commons-codec-1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
